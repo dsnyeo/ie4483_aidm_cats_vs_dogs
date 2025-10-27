@@ -4,3 +4,9 @@ test/
 *.pt          
 __pycache__/  
 .ipynb_checkpoints/ 
+accuracy_curve.png 
+accuracy_curve2.png 
+loss_curve.png 
+loss_curve2.png 
+lr_curve.png 
+lr_curve2.png 
